@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Güllschule"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5788425,
+          49.3050108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Weinbergschule"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5639214,
+          49.3116958
+        ]
+      }
+    }, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Fachoberschule"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5723738,
+			49.3034903
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Gymnasium Carolinum"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5653361,
+			49.3012615
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Staatl. Berufl. Schulzentrum"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5681447,
+			49.3037615
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Vereinsheim blaues Kreuz"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5531989,
+			49.2948521
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Evang. Schule"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5571156,
+			49.3032498
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Theresien-Gymnasium"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5606551,
+			49.3142314
+        ]
+      } 
+  },
+	{
+      "type": "Feature",
+      "properties": {"name": "Luitpoldschule"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5638865,
+			49.2970628
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Berufsschule"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5838866,
+			49.2937548
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Eyb"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.6031598,
+			49.296673
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Hennenbach"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5843842,
+			49.3158438
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Obereichenbach"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.6178345,
+			49.3158718
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Elpersdorf"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5156697,
+			49.2775308
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Waldschule"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5571704,
+			49.2797585
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Bernhardswinden"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5611501,
+			49.2647406
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Brodswinden"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5885758,
+			49.2617655
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Schalkhausen"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			10.5263702,
+			49.3005061
+        ]
+      }
+	}
+  ]
+}
