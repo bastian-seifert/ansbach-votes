@@ -198,6 +198,226 @@
 			49.3005061
         ]
       }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 1"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          49.24
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 2"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.495,
+          49.24
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 3"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.49,
+          49.24
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 4"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.485,
+          49.24
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 5"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.48,
+          49.24
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 6"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.475,
+          49.24
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 7"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.47,
+          49.24
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 8"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.465,
+          49.24
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 9"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.46,
+          49.24
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 10"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.455,
+          49.24
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 11"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          49.245
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 12"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.495,
+          49.245
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 13"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.49,
+          49.245
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 14"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.485,
+          49.245
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 15"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.48,
+          49.245
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 16"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.475,
+          49.245
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 17"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.47,
+          49.245
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 18"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.465,
+          49.245
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 19"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.46,
+          49.245
+        ]
+      }
+	}, 
+	{
+      "type": "Feature",
+      "properties": {"name": "Briefwahl 20"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.455,
+          49.245
+        ]
+      }
 	}
   ]
 }
