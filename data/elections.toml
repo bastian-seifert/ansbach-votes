@@ -1,0 +1,47 @@
+# Registry of the elections this project knows about.
+#
+# Every table describes one election:
+#   name        human readable name
+#   date        election day
+#   kind        europawahl | bundestagswahl | landtagswahl | bezirkswahl |
+#               stadtratswahl | oberbuergermeisterwahl | stichwahl | ...
+#   file        results CSV (OK.VOTE open data format), relative to data/.
+#               Leave it out to use whatever `fetch` downloaded to data/raw/<id>/.
+#   file_match  optional regex picking the right CSV when `fetch` downloaded
+#               several files (e.g. Stadtrat and Oberbürgermeister in one portal)
+#   source_url  page of the official results presentation. `fetch` crawls it
+#               for open data CSV downloads and for party/candidate names.
+#   seats       number of seats (council elections only) – enables the seat
+#               allocation and the "elected / Listennachfolger" analysis
+#
+# Add new elections by copying a block; `python -m ansbach_votes fetch <id>`
+# then pulls the latest numbers.
+
+[europawahl_2024]
+name = "Europawahl 2024"
+date = 2024-06-09
+kind = "europawahl"
+file = "stimmen_europawahl_2024.csv"
+
+[bundestagswahl_2025]
+name = "Bundestagswahl 2025"
+date = 2025-02-23
+kind = "bundestagswahl"
+file = "stimmen_btw_2025.csv"
+
+[stadtratswahl_2026]
+name = "Stadtratswahl 2026"
+date = 2026-03-08
+kind = "stadtratswahl"
+seats = 40
+source_url = "https://wahlen2026.ansbach.de/kommunal/"
+file_match = "(?i)stadtrat"
+
+[oberbuergermeisterwahl_2026]
+name = "Oberbürgermeisterwahl 2026"
+date = 2026-03-08
+kind = "oberbuergermeisterwahl"
+# The OB results live in the same portal; adjust the URL if the city
+# publishes them under a different path.
+source_url = "https://wahlen2026.ansbach.de/kommunal/"
+file_match = "(?i)(oberb|ob[-_ ]?wahl|buergermeister)"

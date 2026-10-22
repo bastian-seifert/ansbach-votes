@@ -1,0 +1,7 @@
+{
+  "note": "Only the four largest parties are filled in, derived from the ballot order 2024; add the remaining columns here or fetch them from the official presentation.",
+  "columns": {
+    "D1": "CSU", "D2": "GRÜNE", "D3": "SPD", "D4": "AfD"
+  },
+  "auto": {}
+}

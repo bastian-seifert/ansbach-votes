@@ -1,0 +1,8 @@
+{
+  "note": "D = Erststimmen (Direktkandidat:in der Partei), F = Zweitstimmen (Landesliste). Only the larger parties are filled in, derived from the Bavarian ballot order 2025; add the remaining columns here or run `python -m ansbach_votes fetch bundestagswahl_2025` with a source_url to fill them automatically.",
+  "columns": {
+    "D1": "CSU", "D2": "SPD", "D3": "GRÜNE", "D4": "FDP", "D5": "AfD", "D6": "FREIE WÄHLER", "D7": "Die Linke",
+    "F1": "CSU", "F2": "SPD", "F3": "GRÜNE", "F4": "FDP", "F5": "AfD", "F6": "FREIE WÄHLER", "F7": "Die Linke"
+  },
+  "auto": {}
+}
